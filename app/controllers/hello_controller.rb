@@ -1,4 +1,7 @@
 class HelloController < ApplicationController
+
+  
+
   def index
     @message="hello"
     @count=3
